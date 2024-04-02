@@ -1,0 +1,142 @@
+.pantalla{
+
+    width: 390px;
+    height: 844px;
+    color: rgb(198, 194, 191);
+}
+
+.tex1{
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    color: black;
+    font-size: 22px;
+}
+.n1{
+    width: 100px;
+    height: 50px;
+    color: black;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.n1 article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 2rem;
+    left: 13.5em;
+
+    width: 150px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(122, 121, 121);
+    font-size: 15.5px;
+}
+.v1{
+    position: absolute;
+    top: 6rem;
+    left: 1rem;
+    color: black;
+    font-size: 15px;
+}
+.grp1{
+    width: 389px;
+    height: 150px;
+    border: 1px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.grp1 article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 75px;
+    height: 85px;
+    border: 1px solid rgb(22, 21, 21);
+    background-color: azure;
+    border-radius: 10px;
+    font-size: 50px;
+    margin: auto;
+
+
+
+}
+.v2{
+    position: absolute;
+    top: 17.5rem;
+    left: 1rem;
+    color: black;
+    font-size: 15px;
+}
+.x1{
+    width: 375px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: azure;
+    position: absolute;
+    left: 0.5rem;
+
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.x2{
+    width: 375px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: azure;
+    position: absolute;
+    top: 33rem;
+    left: 0.5rem;
+
+     font-size: 50px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.v3{
+    position: absolute;
+    top: 46rem;
+    left: 1rem;
+    color: black;
+    font-size: 15px;
+}
+.grp2{
+    width: 375px;
+    height: 150px;
+    border: 1px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    position: absolute;
+    top: 48rem;
+    left: 0.7rem;
+
+}
+.grp2 article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 75px;
+    height: 250px;
+    border: 1px solid rgb(22, 21, 21);
+    background-color: azure;
+    border-radius: 10px;
+    font-size: 50px;
+    margin: auto;
+}
